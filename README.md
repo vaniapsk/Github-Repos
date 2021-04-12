@@ -1,7 +1,7 @@
 # Github Repos
 
-**To install packages
+**To install packages**
 -> npm 
 
 **To start the application**
--> nom run 
+-> npm run 
